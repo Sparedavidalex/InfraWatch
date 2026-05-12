@@ -1,4 +1,6 @@
-# 🚀 O InfraWatch é uma plataforma SaaS de monitoramento voltada para pequenas empresas.
+# InfraWatch
+
+## 🚀 O InfraWatch é uma plataforma SaaS de monitoramento voltada para pequenas empresas.
 
 ## 🎯 Objetivo
 
